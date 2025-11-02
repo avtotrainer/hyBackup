@@ -1,0 +1,16 @@
+# Archives and temp
+*.tar.gz
+*.zip
+*.log
+session-*
+/tmp/
+/.cache/
+
+# User-specific
+~*
+*.swp
+.DS_Store
+
+# Backup storage
+/home/*/.backup/
+

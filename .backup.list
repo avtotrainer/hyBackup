@@ -1,0 +1,27 @@
+# ==========================
+# Manjaro Lightweight Backup List
+# ==========================
+# მხოლოდ ის კონფიგები, რომლებიც ხელით გაქვს მორგებული
+# ფოლდერის ან ფაილის ბილიკი მიუთითე HOME-ის მიმართებაში
+
+# --- Shell setup ---
+.zshrc
+.p10k.zsh
+.oh-my-zsh
+
+# --- Terminal configs ---
+.config/alacritty
+
+# --- Developer tools ---
+.gitconfig
+.ssh
+
+# --- Optional additions ---
+#.tmux.conf
+#.config/wezterm
+#.config/starship.toml
+
+# --- System info sources ---
+/etc/fstab
+/etc/NetworkManager
+
